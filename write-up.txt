@@ -1,0 +1,26 @@
+How long did this take? (estimate in hours)
+2
+What were the enjoyable aspects?
+Seeing everything come together and seeing how well it works together
+What were the challenging parts?
+Bug testing 
+What resources did you use? 
+Force-Directed Graph:
+
+https://observablehq.com/@d3/force-directed-graph
+https://d3js.org/d3-force
+https://d3indepth.com/force-layout/
+
+Scrollytelling:
+
+http://imakewebthings.com/waypoints/
+https://medium.com/codesartisans/scrollytelling-with-d3-js-and-waypoints-js-4c3e3b5c78d0
+
+Responsive Visualizations:
+
+https://developer.mozilla.org/en-US/docs/Web/API/Element/clientWidth
+
+Annotations:
+
+https://d3-annotation.susielu.com/
+https://d3-graph-gallery.com/graph/line_annotation.html
